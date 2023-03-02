@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Indovel-DEV/static/css/main.75a7c04c.css",
+    "main.js": "/Indovel-DEV/static/js/main.f9a185d9.js",
+    "index.html": "/Indovel-DEV/index.html",
+    "main.75a7c04c.css.map": "/Indovel-DEV/static/css/main.75a7c04c.css.map",
+    "main.f9a185d9.js.map": "/Indovel-DEV/static/js/main.f9a185d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75a7c04c.css",
+    "static/js/main.f9a185d9.js"
+  ]
+}
